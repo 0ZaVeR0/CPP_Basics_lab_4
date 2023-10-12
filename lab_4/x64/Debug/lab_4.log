@@ -1,0 +1,9 @@
+﻿  source.cpp
+C:\Users\dpole\source\repos\lab_4\lab_4\source.cpp(28,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dpole\source\repos\lab_4\lab_4\source.cpp(97,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\dpole\source\repos\lab_4\lab_4\source.cpp(100,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\dpole\source\repos\lab_4\lab_4\source.cpp(101,15): warning C4305: 'initializing': truncation from '__int64' to 'int'
+C:\Users\dpole\source\repos\lab_4\lab_4\source.cpp(101,18): warning C4309: 'initializing': truncation of constant value
+C:\Users\dpole\source\repos\lab_4\lab_4\source.cpp(102,15): warning C4305: 'initializing': truncation from '__int64' to 'int'
+C:\Users\dpole\source\repos\lab_4\lab_4\source.cpp(102,17): warning C4309: 'initializing': truncation of constant value
+  lab_4.vcxproj -> C:\Users\dpole\source\repos\lab_4\x64\Debug\lab_4.exe
