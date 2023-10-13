@@ -25,7 +25,7 @@ void fillrand2d(int** matrix, int n,int min, int max) {
 void fillrand1d(float* m, int n, int min, int max) {
 	float* m1d;
 	for (m1d = m; m1d < (n + m); m1d++) {
-		*m1d = (rand() % 100) / 10.;
+		*m1d = (min + (rand() % (max - min + 1))) / 10.;
 	}
 }
 
